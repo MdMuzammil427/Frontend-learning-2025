@@ -1,0 +1,14 @@
+div {
+    height: 200px;
+    width: 500px;
+    border-width: 20px;
+    border-style: double;
+    border-color: rgb(75, 102, 102);
+    border-left-color: brown;
+    border-right-color: rgb(0, 204, 255);
+    border-top-color: aquamarine;
+    border-bottom-color:palevioletred;
+    margin-bottom: 50px;
+    padding: 50px;
+    background-color: rgba(8, 2, 19, 0.265);
+}
